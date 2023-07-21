@@ -43,9 +43,9 @@ public final class ExtentReport {
 
 			extent.setSystemInfo("Organization", "CapGemini");
 			extent.setSystemInfo("Employee",
-					"<b> Rajat Verma </b>" + " " + ICON_SOCIAL_LINKEDIN + " " + ICON_SOCIAL_GITHUB);
+					"<b> Ramesh Reddy K </b>" + " " + ICON_SOCIAL_LINKEDIN + " " + ICON_SOCIAL_GITHUB);
 			extent.setSystemInfo("Domain", "Engineering (IT - Software)" + "  " + ICON_LAPTOP);
-			extent.setSystemInfo("Skill", "Test Automation Engineer");
+			extent.setSystemInfo("Skill", "SDET Developer");
 		}
 	}
 

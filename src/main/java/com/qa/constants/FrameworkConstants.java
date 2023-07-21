@@ -32,8 +32,8 @@ public class FrameworkConstants {
 	public static final String ICON_LAPTOP = "<i class='fa fa-laptop' style='font-size:18px'></i>";
 	public static final String ICON_BUG = "<i class='fa fa-bug' ></i>";
 	/* style="text-align:center;" */
-	public static final String ICON_SOCIAL_LINKEDIN_URL = "https://www.linkedin.com/in/rajat-v-3b0685128/";
-	public static final String ICON_SOCIAL_GITHUB_URL = "https://github.com/rajatt95";
+	public static final String ICON_SOCIAL_LINKEDIN_URL = "https://www.linkedin.com/in/ramesh-reddy-kapparapu-922aa9a5/";
+	public static final String ICON_SOCIAL_GITHUB_URL = "https://github.com/UrsTrulyRamOfficial";
 	public static final String ICON_SOCIAL_LINKEDIN = "<a href='" + ICON_SOCIAL_LINKEDIN_URL+ "'><i class='fa fa-linkedin-square' style='font-size:24px'></i></a>";
 	public static final String ICON_SOCIAL_GITHUB = "<a href='" + ICON_SOCIAL_GITHUB_URL+ "'><i class='fa fa-github-square' style='font-size:24px'></i></a>";
 
@@ -49,7 +49,6 @@ public class FrameworkConstants {
 	public static final String ICON_BROWSER_SUFFIX = "\" aria-hidden=\"true\"></i>";
 
 	/* ICONS - END */
-
 	public static final String ASSERTION_FOR_RESPONSE_STATUS_CODE = "Assertion for Response Status Code";
 	public static final String ASSERTION_FOR_RESPONSE_HEADER = "Assertion for Response Headers";
 	public static final String ASSERTION_FOR_RESPONSE_CUSTOM_FIELD = "Assertion for Response Custom Field";
@@ -67,7 +66,7 @@ public class FrameworkConstants {
 	/** Zip file of Extent Reports */
 	public static final String Zipped_ExtentReports_Folder_Name = "ExtentReports.zip";
 
-	private static final String Project_Name = "Automation Test Suite Report - Master Selenium Framework";
+	private static final String Project_Name = "Automation Test Suite Report - Selenium Page Object_Allure";
 
 	public static String getProjectPath() {
 		return PROJECT_PATH;

@@ -1,4 +1,4 @@
-# MasterSeleniumFramework
+# SeleniumPageObject_Allure
 With further updates - This project is designed and developed with the help of -
 1. Udemy course (OmPrakash Chavan - Selenium Java Test Framework & Best Practices - Masterclass) - [Learnings from Course (UDEMY - OC - Selenium).pdf](https://github.com/rajatt95/MasterSeleniumFramework/files/7421670/Learnings.from.Course.UDEMY.-.OC.-.Selenium.pdf)
 2. YouTube playlist (Testing Mini Bytes - Selenium Automation Framework with Real-time dashboard)
@@ -6,10 +6,11 @@ With further updates - This project is designed and developed with the help of -
 It has a concept of Atomic tests (Achieved by Selenium WebDriver API and RestAssured API)
 ------------------------------------------------------------
 # Atomic Tests:
-![image](https://user-images.githubusercontent.com/26399692/138962929-70094e77-ff3c-405e-95f8-c91c4e0912a6.png)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/5bd7e581-4d0f-4dd0-9a55-5228ddb807d5)
 ------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/26399692/135917549-ee1e000a-ce07-4051-89b1-b57ec9b6b9b7.png)
-![image](https://user-images.githubusercontent.com/26399692/138963232-172cc99c-87df-48a6-85eb-71f749a4bf95.png)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/5178ec6b-ae92-4681-99ce-34c1579c448b)
+
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/8b477345-584a-4961-86a8-215c05169dc9)
 ------------------------------------------------------------
 Updations done:
 ------------------------------------------------------------
@@ -20,17 +21,17 @@ Updations done:
 - TestType - Smoke, Sanity, Regression, BVT
 
 2. Screenshots are attached in the ExtentReport as Base64 format.
-![image](https://user-images.githubusercontent.com/26399692/138960828-90e184a0-a354-43bc-b55d-c440b29b9d7a.png)
-![image](https://user-images.githubusercontent.com/26399692/138960863-e799db94-38e3-47ca-ae2d-0436fff3a08a.png)
+![image](<img width="960" alt="image" src="https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/eb52b2ca-b61f-4d6e-bc17-9eb113618683">)
+![image](<img width="960" alt="image" src="https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/c4afda65-0f26-46c1-8543-9f53b077eff5">)
 ------------------------------------------------------------
 **Allure Reports** 
 ![image](https://user-images.githubusercontent.com/26399692/135977881-10e654b4-6224-4aa9-8343-841af16aeeb3.png)
 ------------------------------------------------------------
 **User has options for customization**
-![image](https://user-images.githubusercontent.com/26399692/135927821-1e293278-14f2-4ad2-94dc-5505b080680d.png)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/7ecb7a71-0826-4646-9cd0-c1bf22855f00)
 ------------------------------------------------------------
 **Email to User(s) using Java mail API**
-![image](https://user-images.githubusercontent.com/26399692/135975570-d520d163-a7eb-4695-b22c-a25979415ef5.png)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/2d877615-8016-4a08-bb9d-4a4ebc971241)
 ------------------------------------------------------------
 **Others implementations:**
 1. Retry failed test cases
@@ -54,9 +55,9 @@ e. Details (Add Rajat linkedIn and Github URL)
  - https://mvnrepository.com/artifact/javax.mail/mail/1.4.7
  - https://www.tutorialspoint.com/java/java_sending_email.htm
  - Gmail -> Manage your Google account: 
-        ![image](https://user-images.githubusercontent.com/26399692/137579937-12c01d4d-1f62-4867-8c40-c056391d3b7e.png)
+        ![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/8b56b5a0-3647-4d4b-ba1e-9e1a48e51d3e)
  - Security -> Turn on : Less Secure App access:
-        ![image](https://user-images.githubusercontent.com/26399692/137579959-e1554f06-5583-4ad1-ad28-ed69ed27b922.png)
+        ![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/94f3bdd8-09d3-4b33-9ca7-2c89d83ce2b6)
 
 ------------------------------------------------------------
 **How to run the Project from Local machine**
@@ -71,9 +72,12 @@ e. Details (Add Rajat linkedIn and Github URL)
  - Open command prompt -> allure serve allure-results
 ------------------------------------------------------------
 **How to run the Project from Jenkins**
-[__Final-OC_Selenium-Github-ActiveChoiceParams.pdf](https://github.com/rajatt95/MasterSeleniumFramework/files/7314914/__Final-OC_Selenium-Github-ActiveChoiceParams.pdf)
-![image](https://user-images.githubusercontent.com/26399692/136642687-ce999564-df0a-4c64-a4e5-bccc05ef0388.png)
+
+Please find the attached pdf document for reference.
+[__Final-OC_Selenium-Github-ActiveChoiceParams.pdf](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/files/12127591/__Final-OC_Selenium-Github-ActiveChoiceParams.pdf)
+
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/96da3079-37d1-4870-b2c8-140720b61742)
 ------------------------------------------------------------
 Email to User(s) using Jenkins:
-![image](https://user-images.githubusercontent.com/26399692/136642963-4a658292-b024-421c-ad7c-ada22777128b.png)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/df74bd8f-1019-452f-9000-1b568077910b)
 ------------------------------------------------------------
