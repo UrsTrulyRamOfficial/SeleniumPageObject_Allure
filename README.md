@@ -21,8 +21,8 @@ Updations done:
 - TestType - Smoke, Sanity, Regression, BVT
 
 2. Screenshots are attached in the ExtentReport as Base64 format.
-![image](<img width="960" alt="image" src="https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/eb52b2ca-b61f-4d6e-bc17-9eb113618683">)
-![image](<img width="960" alt="image" src="https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/c4afda65-0f26-46c1-8543-9f53b077eff5">)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/d3472e9a-5ead-4ea3-a86d-a1745a438f45)
+![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/c4bff984-57a4-4a42-a3df-88512e7bc98c)
 ------------------------------------------------------------
 **Allure Reports** 
 ![image](https://user-images.githubusercontent.com/26399692/135977881-10e654b4-6224-4aa9-8343-841af16aeeb3.png)
