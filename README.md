@@ -53,9 +53,11 @@ e. Details (Add Rajat linkedIn and Github URL)
 ----------------------------------
 8. Send EMail using Java mail API to User(s) with attachment(s).
  - https://mvnrepository.com/artifact/javax.mail/mail/1.4.7
- - https://www.tutorialspoint.com/java/java_sending_email.htm
- - Gmail -> Manage your Google account: 
-        ![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/8b56b5a0-3647-4d4b-ba1e-9e1a48e51d3e)
+ - https://www.tutorialspoint.com/java/java_sending_email.html
+   
+ - Gmail -> Manage your Google account:
+        ![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/f5c77ef9-f20d-49d1-944f-d980bdb03e8e)
+   
  - Security -> Turn on : Less Secure App access:
         ![image](https://github.com/UrsTrulyRamOfficial/SeleniumPageObject_Allure/assets/74490240/94f3bdd8-09d3-4b33-9ca7-2c89d83ce2b6)
 
